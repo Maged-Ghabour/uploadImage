@@ -1,4 +1,4 @@
 # uploadImage
 
 ### Demo
-[(upload image](https://maged-ghabour.github.io/uploadImage/)
+[upload image](https://maged-ghabour.github.io/uploadImage/)
